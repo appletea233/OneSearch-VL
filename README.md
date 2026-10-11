@@ -6,7 +6,7 @@
 
 <p><b>Unified Tool Set &nbsp;·&nbsp; VGEG-Centered Data Engine &nbsp;·&nbsp; Rubric Reward &nbsp;·&nbsp; Multi-Image / Video Benchmarks</b></p>
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://github.com/appletea233/OneSearch-VL)
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2610.12419)
 [![Discussion](https://img.shields.io/badge/discussion-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue)](https://github.com/appletea233/OneSearch-VL)
 [![GitHub](https://img.shields.io/badge/OneSearch_VL-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/appletea233/OneSearch-VL)
 [![Hugging Face Collection](https://img.shields.io/badge/OneSearch_VL_Collection-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/OneSearch-VL)
@@ -140,7 +140,7 @@ preparation instructions.
   **3.8 points** over answer and query rewards on the paper's six-benchmark
   ablation average.
 
-All gains are in percentage points. See the paper for detailed comparisons.
+All gains are in percentage points. See the [paper](https://arxiv.org/abs/2610.12419) for detailed comparisons.
 
 ---
 
@@ -384,9 +384,16 @@ whose ideas inspired our multi-turn search-augmented RL formulation.
 
 ## 📄 Citation
 
-**OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video.**
+**[OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video](https://arxiv.org/abs/2610.12419).**
 
-The public paper link and official BibTeX citation will be added when available.
+```bibtex
+@article{li2026onesearch,
+  title={OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video},
+  author={Li, Hongyu and Zhang, Manyuan and Feng, Kaituo and Chen, Shu and Zheng, Dian and Li, Hao and Yu, Hao and Chen, Zhangquan and Guo, Zoey and Zhang, Ray and others},
+  journal={arXiv preprint arXiv:2610.12419},
+  year={2026}
+}
+```
 
 ---
 
